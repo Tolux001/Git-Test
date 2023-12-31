@@ -1,5 +1,5 @@
 if(a > b){
-console.log("very close count");}
+console.log("close count");}
 
 let liar = false;
 if(liar){
